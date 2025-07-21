@@ -33,13 +33,21 @@ This project is an IoT-based Smart Waste Bin Monitoring System that uses an ESP3
 
 ##  Screenshots
 ![WhatsApp Image 2025-07-22 at 01 25 35_3344a152](https://github.com/user-attachments/assets/299f5b9d-1b42-4f70-9391-e3fc420f4a1e)
+
 ![WhatsApp Image 2025-07-22 at 01 25 34_36ae0cf8](https://github.com/user-attachments/assets/1cb8497a-efdd-460f-89ee-a05408120b54)
+
 ![WhatsApp Image 2025-07-22 at 01 25 34_f7879365](https://github.com/user-attachments/assets/4b1c724f-5aa1-4eef-a9aa-29fa4857286b)
+
 ![WhatsApp Image 2025-07-22 at 01 25 34_e66ec857](https://github.com/user-attachments/assets/5680801a-827b-4809-a2bc-64308de012fb)
+
 ![WhatsApp Image 2025-07-22 at 01 25 33_9c380ae8](https://github.com/user-attachments/assets/b353ad3b-5169-40e6-b785-de11b3c6b67f)
+
 ![WhatsApp Image 2025-07-22 at 01 25 33_f3178256](https://github.com/user-attachments/assets/98d8b23b-ac69-44c7-980a-d91f95f484ae)
+
 ![WhatsApp Image 2025-07-22 at 01 25 33_29d93692](https://github.com/user-attachments/assets/f0aee731-e7f6-4839-a0ef-80d8f4b8b438)
+
 ![WhatsApp Image 2025-07-22 at 01 25 35_f3ec9b9c](https://github.com/user-attachments/assets/84390651-1572-4cb1-99ea-7962894fcc8b)
+
 ![WhatsApp Image 2025-07-22 at 01 25 35_55565381](https://github.com/user-attachments/assets/b004531b-3551-4821-bd20-a607e00fa462)
 
 
